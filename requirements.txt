@@ -1,0 +1,4 @@
+-pillow
+-rembg
+-tkinter
+-os
