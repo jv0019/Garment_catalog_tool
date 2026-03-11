@@ -90,8 +90,8 @@ The numbering automatically increments for each processed image.
 Clone the repository:
 
 ```bash
-git clone https://github.com/jv0019/garment_calalg_tool.git
-cd garment_calalg_tool
+git clone https://github.com/jv0019/Garment_catalog_tool.git
+cd image_calalg_tool
 ```
 
 Install dependencies:
@@ -139,10 +139,4 @@ Possible improvements for future versions:
 - Drag-and-drop folder support
 - Progress bar for batch processing
 - Export presets for different catalogue sizes
-- Packaging the application as a standalone executable
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
+- Packaging the application as a standalone executable.
