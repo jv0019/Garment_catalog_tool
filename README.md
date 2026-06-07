@@ -6,7 +6,6 @@ Built with **Python**, **Tkinter**, **Pillow**, and **rembg**, the tool transfor
 
 
 
-\
 
 ---
 
